@@ -106,9 +106,9 @@
 
 ## My Journey
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AiseosaE-007&theme=dark" alt="GitHub Streak" />
-</div>
+//<div align="center">
+//  <img src="http://github-readme-streak-stats.herokuapp.com?user=AiseosaE-007&theme=dark" alt="GitHub Streak" />
+//</div>
 <br/>
 <div display="flex">
   <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github">

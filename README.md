@@ -1,7 +1,7 @@
 <h1 align="center">Web • Mobile • AI • Blockchain Solutions</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Code-Guru-007.Code-Guru-007&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AiseosaE-007.AiseosaE-007&left_color=royalblue&right_color=black"  />
 
-![Snake animation](https://raw.githubusercontent.com/Code-Guru-007/Code-Guru-007/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AiseosaE-007/AiseosaE-007/output/snake.svg)
 
 ### :hammer_and_wrench: My Major Skill :
 
@@ -107,10 +107,10 @@
 ## My Journey
 
 <div align="center">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Guru-007&theme=onedark" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AiseosaE-007&theme=onedark" />
 </div>
 <br/>
 <div display="flex">
-  <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Guru-007&theme=github">
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
+  <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE&theme=github">
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE&layout=compact&theme=onedark" />
 </div>

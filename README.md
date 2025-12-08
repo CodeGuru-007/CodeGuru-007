@@ -111,6 +111,6 @@
 <!--</div>-->
 <br/>
 <div style="display:flex; justify-content: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE-007&layout=compact&theme=onedark" />
+  <div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github"> </div>
+  <div> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE-007&layout=compact&theme=onedark" /> </div>
 </div>

@@ -1,6 +1,5 @@
-<h1 align="center">The Only Way To Do Great Work Is To Love What You Do</h1>
+<h1 align="center">Web • Mobile • AI • Blockchain Solutions</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Code-Guru-007.Code-Guru-007&left_color=royalblue&right_color=black"  />
-<h3 align="center">Senior Full Stack Developer </h3>
 
 ![Snake animation](https://raw.githubusercontent.com/Code-Guru-007/Code-Guru-007/output/snake.svg)
 

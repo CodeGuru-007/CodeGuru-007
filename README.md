@@ -110,7 +110,7 @@
   <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=AiseosaE-007&theme=dark" alt="GitHub Streak" />-->
 <!--</div>-->
 <br/>
-<div display="flex">
-  <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github">
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE-007&layout=compact&theme=onedark" />
+<div style="display:flex; justify-content: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE-007&layout=compact&theme=onedark" />
 </div>

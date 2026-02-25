@@ -1,7 +1,7 @@
 <h1 align="center">Web • Mobile • AI • Blockchain Solutions</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AiseosaE-007.AiseosaE-007&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeGuru-007.CodeGuru-007&left_color=royalblue&right_color=black"  />
 
-![Snake animation](https://raw.githubusercontent.com/AiseosaE-007/AiseosaE-007/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CodeGuru-007/CodeGuru-007/output/snake.svg)
 
 ### :hammer_and_wrench: My Major Skill :
 
@@ -107,10 +107,10 @@
 ## My Journey
 
 <!--<div align="center"> -->
-  <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=AiseosaE-007&theme=dark" alt="GitHub Streak" />-->
+  <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=CodeGuru-007&theme=dark" alt="GitHub Streak" />-->
 <!--</div>-->
 <br/>
 <div>
-  <div align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AiseosaE-007&layout=compact&theme=onedark" /> </div>
-  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiseosaE-007&theme=github"> </div>
+  <div align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeGuru-007&layout=compact&theme=onedark" /> </div>
+  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeGuru-007&theme=github"> </div>
 </div>
